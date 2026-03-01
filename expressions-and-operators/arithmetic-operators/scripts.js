@@ -13,7 +13,7 @@ console.log("Multiplication:", 12 * 2);
 // Dividation
 console.log("Dividation:", 12 / 2);
 
-// Remainder of dividation 
+// Remainder of dividation
 console.log("Dividation:", 12 % 2);
 
 // Exponential
