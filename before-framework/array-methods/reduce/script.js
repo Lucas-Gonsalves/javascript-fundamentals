@@ -20,4 +20,4 @@ const sum = values.reduce((accumulator, currentValue, index) => {
   return accumulator + currentValue
 }, 0)
 
-console.log('Result': sum)
+console.log('Result: ', sum)
